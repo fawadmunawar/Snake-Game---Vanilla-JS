@@ -1,0 +1,25 @@
+
+body{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    overflow: hidden;
+    background-color: black;
+    color: white;
+}
+
+/* .score
+{
+    position:absolute;
+    top: 50%;
+    left: 17%;
+    transform: translate(-50%, -50%);
+} */
+
+#score{
+    color: lime;
+}
+
+#board{
+    border: 1px solid white;
+}
+
